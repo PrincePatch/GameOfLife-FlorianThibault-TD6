@@ -24,6 +24,10 @@ Pour lancer le programme :
 
 python game_of_life.py
 
+## Comment contribuer
+
+Créez un ticket dans les Issues ou écrivez un commentaire sur une issue existante si vous souhaitez contribuer.
+
 Built With
 Python 3.x : Langage principal utilisé pour le développement.
 
