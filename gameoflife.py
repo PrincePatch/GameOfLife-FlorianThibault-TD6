@@ -33,6 +33,8 @@ def initialise():
     print("Input at least one alive cell\n")
     return initialise()
 
+#This is an improvement
+
 def reformat(gen):
     max_length = 0
     for row in gen:
