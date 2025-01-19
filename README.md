@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GameOfLife-FlorianThibault-TD6
 Ce projet implémente le **Jeu de la vie** en Python, un automate cellulaire inventé par John Conway. Ce programme simule l'évolution d'une grille de cellules selon des règles simples.
 
@@ -35,3 +36,7 @@ Florian Thibault - ESILV Student
 
 License
 Ce projet est sous licence MIT - consultez le fichier LICENSE.md pour plus de détails.
+=======
+# GameOfLife-FlorianThibault-TD6
+Il s'agit ici du code du jeu de la vie en Python
+>>>>>>> 870b917f71cfd67e3cc460e35242febf124bb4da
