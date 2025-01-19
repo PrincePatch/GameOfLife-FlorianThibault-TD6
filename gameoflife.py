@@ -24,8 +24,14 @@ def initialise():
         os.system('cls')
         print("Empty input\n")
         return initialise()
+    for row in gen0:
+        for cell in row:
+            if cell == '#':
+                os.system('cls')
+                return reformat(gen0)
     os.system('cls')
-    return reformat(gen0)
+    print("Input at least one alive cell\n")
+    return initialise()
 
 def reformat(gen):
     max_length = 0
